@@ -120,7 +120,7 @@ export default function WaitlistForm() {
             {t.success.message2}
           </p>
           <p className="text-emerald-200 mb-6">
-            We'll let you know when Kananko is ready.
+            We&apos;ll let you know when Kananko is ready.
           </p>
           <button
             onClick={() => setSubmitted(false)}
